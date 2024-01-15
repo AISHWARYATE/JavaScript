@@ -24,3 +24,4 @@ const intervalid = setInterval(incrementCounter,1000);
 setTimeout(()=>{
     clearInterval(intervalid);
 },5000);
+// log
